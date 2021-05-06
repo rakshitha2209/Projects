@@ -1,0 +1,16 @@
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+.welcome h2{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color:rgba(141, 198, 202, 0.993) ;
+    border-radius: 10px;
+  }
+  
+  .welcome h2:hover{
+    transform: scale(1.01);
+    background-color: aqua;
+  }
