@@ -9,9 +9,8 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel='shortcut icon' href='images/tsf.ico' type='image/x-icon'>
-    <link rel='icon' href='images/tsf.ico' type='image/x-icon'>
 	<title>GRIP Bank</title>
+	<link rel="icon" href="/images/tsf.png" type="image/x-icon"/>
     <link rel="stylesheet" href="home_style.css">
 	<link rel="stylesheet" href="style1.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -40,7 +39,9 @@
                     </div>
 
                     <div class="flex-item">
+					    <form method="get" action="history.php">
                            <button type="submit" style="float: right;width:475px;">Transaction History</button>
+						</form>
                     </div>
 
                     
