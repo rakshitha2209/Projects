@@ -12,6 +12,9 @@
         <a href="./home.php">HOME</a>
         
          <a class="nav-link" href="https://www.thesparksfoundationsingapore.org/ " target="_blank">ABOUT US</a>
+		 <a href="./create.php">CREATE USER</a>
+		  <a href="./money.php">USERS</a>
+		  <a href="./history.php">USER HISTORY</a>
         <a href="javascript:void(0);" class="icon" onclick="respFunc()">&#9776;</a>
     </div>
     </div>
@@ -57,3 +60,4 @@ $(document).ready(function() {
 
 </body>
 </html>
+
